@@ -1,2 +1,2 @@
 FROM hello-world
-Label 1
+Label architecture=x86
